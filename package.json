@@ -1,0 +1,14 @@
+{
+  "name": "optimizacion",
+  "version": "1.0.0",
+  "description": "Curso de optimizacion basico",
+  "main": "bin/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abiiram10",
+  "license": "ISC",
+  "dependencies": {
+    "@types/d3": "^6.2.0"
+  }
+}
